@@ -87,7 +87,7 @@ class Main:
             print(Move.uci(move))
     
     def main(self) -> None:
-        # self.welcome()
+        self.welcome()
         while True:
             try:
                 self.getFilePath()
