@@ -1,0 +1,33 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2024.05.30"]
+[Round "-"]
+[White "escooby21"]
+[Black "sunegoo"]
+[Result "0-1"]
+[CurrentPosition "6k1/6pp/2p1p3/2Pp4/7P/1p2P1P1/rB3Q2/2K4q w - -"]
+[Timezone "UTC"]
+[ECO "A40"]
+[ECOUrl "https://www.chess.com/openings/Queens-Pawn-Opening-Horwitz-Defense...3.c4-Nf6-4.Nc3-Bb4-5.Bd2"]
+[UTCDate "2024.05.30"]
+[UTCTime "02:46:43"]
+[WhiteElo "1522"]
+[BlackElo "1545"]
+[TimeControl "600"]
+[Termination "sunegoo won by resignation"]
+[StartTime "02:46:43"]
+[EndDate "2024.05.30"]
+[EndTime "02:53:32"]
+[Link "https://www.chess.com/game/live/110776284909"]
+[WhiteUrl "https://images.chesscomfiles.com/uploads/v1/user/137142784.d8a7552d.50x50o.039b0f9da70d.jpg"]
+[WhiteCountry "37"]
+[WhiteTitle ""]
+[BlackUrl "https://www.chess.com/bundles/web/images/noavatar_l.84a92436.gif"]
+[BlackCountry "70"]
+[BlackTitle ""]
+
+1. d4 f5 2. c4 Nf6 3. Nf3 e6 4. Nc3 Bb4 5. Bd2 Bxc3 6. Bxc3 d5 7. c5 c6 8. Ne5
+O-O 9. g3 Nbd7 10. Nxd7 Qxd7 11. Bg2 b6 12. b4 Ne4 13. Bxe4 $6 fxe4 14. e3 $2 bxc5
+15. dxc5 Ba6 16. Qg4 $6 Qf7 $6 17. f4 $2 exf3 18. O-O-O f2 19. Rdf1 Bxf1 20. Rxf1
+Qg6 21. Qh3 $6 a5 22. Qg2 axb4 23. Bb2 Rxa2 24. Rxf2 Rxf2 25. Qxf2 b3 26. h4 Qf5
+27. Qg2 Qe4 28. Qf2 $6 Qh1+ 29. Kd2 0-1

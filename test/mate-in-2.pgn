@@ -1,0 +1,17 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2024.06.01"]
+[Round "?"]
+[White "alexnomad"]
+[Black "sunegoo"]
+[Result "0-1"]
+[ECO "C23"]
+[WhiteElo "1490"]
+[BlackElo "1552"]
+[TimeControl "600"]
+[EndTime "3:15:10 PDT"]
+[Termination "sunegoo won by checkmate"]
+
+1. e4 e5 2. Bc4 Nc6 3. d3 Bc5 4. Nf3 f5 5. Bg5 Nf6 6. O-O a6 7. c3 b5 8. Bb3 Na5
+9. Nxe5 Nxb3 10. Qxb3 Qe7 11. d4 Bb6 12. exf5 d6 13. Nc6 Qd7 14. Re1+ Kf8 15. d5
+Qxf5 16. Bxf6
